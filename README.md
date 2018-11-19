@@ -1,6 +1,9 @@
 # iac-prototype
 IAC prototype - only used to report issue with docker-maven-plugin
 
+Issue: https://github.com/fabric8io/docker-maven-plugin/issues/1124
+
+
 This project is a proof-of-concept implementation/exploration of using Infrastructure-As-Code
 in integration tests. Specifically I want to explore three possibilities:
 
